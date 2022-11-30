@@ -19,6 +19,7 @@ This year I want to brush up my JavaScript skills. It's been a while when I was 
 Last year I solved all the problems with Kotlin and Spock with Groovy served me for test purposes. I also focused last time on TDD.
 
 Blog post: https://www.proszowski.dev/posts/advent-of-code-2021/
+
 Repository: https://github.com/piotr-proszowski/aoc-2021
 
 # Credits
