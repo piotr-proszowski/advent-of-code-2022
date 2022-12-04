@@ -22,3 +22,5 @@
  *     import myLib from '../utils/myLib'
  *     import { myUtil } from '../utils'
  */
+
+import _ from 'lodash'
